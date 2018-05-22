@@ -5,4 +5,3 @@ const Watcher = require('./lib/watcher')
 const watcher = new Watcher(__dirname, sessionName)
 
 watcher.initialize()
-
